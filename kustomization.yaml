@@ -1,0 +1,7 @@
+commonLabels:
+  builtBy: "HazemHemied"
+
+namespace: hemied
+
+resources:
+- secret.json
